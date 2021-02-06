@@ -1,10 +1,14 @@
 {
   "name": "objdifference",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "To get difference between two JavaScript objects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wevek/objdifference.git"
   },
   "keywords": [
     "Object",
@@ -13,5 +17,9 @@
     "Compare"
   ],
   "author": "Vivek Yadav",
-  "license": "ISC"
+  "license": "ISC",
+    "bugs": {
+    "url": "https://github.com/wevek/objdifference/issues"
+  },
+  "homepage": "https://github.com/wevek/objdifference.git#readme"
 }
