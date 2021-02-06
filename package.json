@@ -1,5 +1,5 @@
 {
-  "name": "objectdifference",
+  "name": "objdifference",
   "version": "0.0.1",
   "description": "To get difference between two JavaScript objects",
   "main": "index.js",
