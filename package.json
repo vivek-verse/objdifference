@@ -1,0 +1,17 @@
+{
+  "name": "objectdifference",
+  "version": "0.0.1",
+  "description": "To get difference between two JavaScript objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Object",
+    "Difference",
+    "JavaScript",
+    "Compare"
+  ],
+  "author": "Vivek Yadav",
+  "license": "ISC"
+}
